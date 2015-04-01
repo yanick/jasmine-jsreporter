@@ -103,4 +103,4 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-_Would be nice if you mention the **Author** and/or it's **Public Repository** when using it._
+_Would be nice if you mention the **Author** and/or its **Public Repository** when using it._
